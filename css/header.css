@@ -5,7 +5,10 @@
 .header-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+}
+
+.logo {
+  margin-right: 76px;
 }
 
 .nav {
@@ -29,6 +32,10 @@
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
+}
+
+.contacts {
+  margin-left: auto;
 }
 
 .contacts-list {
